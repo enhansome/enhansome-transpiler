@@ -1,0 +1,175 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "By Target Language"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Grumpy",
+          "description": "Grumpy is a Python to Go source code transcompiler and runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-01-18T09:01:43Z",
+            "owner": "google",
+            "repo": "grumpy",
+            "stars": 10496
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "c2go",
+          "description": "A tool for transpiling C to Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T03:18:51Z",
+            "owner": "elliotchance",
+            "repo": "c2go",
+            "stars": 2183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Godzilla",
+          "description": "Godzilla is a ES2015 to Go source code transpiler and runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-08-07T15:36:34Z",
+            "owner": "owenthereal",
+            "repo": "godzilla",
+            "stars": 1476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GALA",
+          "description": "A functional programming language that transpiles to Go, adding sealed types, pattern matching, immutability by default, and monads.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T07:56:58Z",
+            "owner": "martianoff",
+            "repo": "gala",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Golang"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C2Rust",
+          "description": "Migrate C code to Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T23:58:18Z",
+            "owner": "immunant",
+            "repo": "c2rust",
+            "stars": 4780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aleph Ollama",
+          "description": "AI-powered source code translation tool using local Ollama API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-27T17:21:20Z",
+            "owner": "aleph-lang",
+            "repo": "aleph_ollama",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Rust"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GopherJS",
+          "description": "A compiler from Go to JavaScript for running Go code in a browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-27T14:50:07Z",
+            "owner": "gopherjs",
+            "repo": "gopherjs",
+            "stars": 13172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElixirScript",
+          "description": "Converts Elixir to JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2019-08-20T14:46:14Z",
+            "owner": "elixirscript",
+            "repo": "elixirscript",
+            "stars": 1564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "J2CL",
+          "description": "Java to Closure JavaScript transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:47:47Z",
+            "owner": "google",
+            "repo": "j2cl",
+            "stars": 1374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shift.JS",
+          "description": "Swift to JavaScript transpiler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-17T23:20:38Z",
+            "owner": "shift-js",
+            "repo": "shift-js",
+            "stars": 1273
+          }
+        }
+      ],
+      "title": "JavaScript"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:35:42.417Z",
+    "original_repository": "transpiler/awesome-transpiler",
+    "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
+    "enhanced_repository": "enhansome/enhansome-transpiler",
+    "enhanced_repository_description": null,
+    "title": "Awesome Transpilers with stars"
+  }
+}
