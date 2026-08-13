@@ -19,7 +19,7 @@
             "last_commit": "2022-01-18T09:01:43Z",
             "owner": "google",
             "repo": "grumpy",
-            "stars": 10496
+            "stars": 10494
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-10T23:58:18Z",
             "owner": "immunant",
             "repo": "c2rust",
-            "stars": 4780
+            "stars": 4782
           }
         },
         {
@@ -140,7 +140,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T01:47:47Z",
+            "last_commit": "2026-08-13T19:46:18Z",
             "owner": "google",
             "repo": "j2cl",
             "stars": 1374
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:35:42.417Z",
+    "last_updated": "2026-08-13T20:07:23.880Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
     "enhanced_repository": "enhansome/enhansome-transpiler",
