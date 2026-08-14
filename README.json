@@ -33,7 +33,7 @@
             "last_commit": "2026-08-03T03:18:51Z",
             "owner": "elliotchance",
             "repo": "c2go",
-            "stars": 2183
+            "stars": 2182
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-10T23:58:18Z",
             "owner": "immunant",
             "repo": "c2rust",
-            "stars": 4782
+            "stars": 4785
           }
         },
         {
@@ -140,7 +140,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T19:46:18Z",
+            "last_commit": "2026-08-14T19:53:19Z",
             "owner": "google",
             "repo": "j2cl",
             "stars": 1374
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T20:07:23.880Z",
+    "last_updated": "2026-08-14T20:05:41.504Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
     "enhanced_repository": "enhansome/enhansome-transpiler",
