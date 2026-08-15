@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T23:58:18Z",
+            "last_commit": "2026-08-15T00:55:11Z",
             "owner": "immunant",
             "repo": "c2rust",
-            "stars": 4785
+            "stars": 4784
           }
         },
         {
@@ -115,7 +115,7 @@
             "last_commit": "2026-07-27T14:50:07Z",
             "owner": "gopherjs",
             "repo": "gopherjs",
-            "stars": 13172
+            "stars": 13173
           }
         },
         {
@@ -140,7 +140,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T19:53:19Z",
+            "last_commit": "2026-08-14T22:49:20Z",
             "owner": "google",
             "repo": "j2cl",
             "stars": 1374
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:05:41.504Z",
+    "last_updated": "2026-08-15T19:49:37.048Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
     "enhanced_repository": "enhansome/enhansome-transpiler",
