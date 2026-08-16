@@ -19,7 +19,7 @@
             "last_commit": "2022-01-18T09:01:43Z",
             "owner": "google",
             "repo": "grumpy",
-            "stars": 10494
+            "stars": 10492
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-15T00:55:11Z",
             "owner": "immunant",
             "repo": "c2rust",
-            "stars": 4784
+            "stars": 4785
           }
         },
         {
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:49:37.048Z",
+    "last_updated": "2026-08-16T19:48:44.319Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
     "enhanced_repository": "enhansome/enhansome-transpiler",
