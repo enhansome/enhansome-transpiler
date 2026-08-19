@@ -17,7 +17,7 @@
                 "last_commit": "2022-01-18T09:01:43Z",
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10492
+                "stars": 10493
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-03T03:18:51Z",
                 "owner": "elliotchance",
                 "repo": "c2go",
-                "stars": 2182
+                "stars": 2183
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2026-07-27T14:50:07Z",
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13173
+                "stars": 13174
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 94876336,
                 "language": "Java",
-                "last_commit": "2026-08-19T07:08:47Z",
+                "last_commit": "2026-08-19T19:00:09Z",
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1374
@@ -179,7 +179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:23.392Z",
+    "last_updated": "2026-08-19T19:53:16.529Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_id": 207972696,
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
