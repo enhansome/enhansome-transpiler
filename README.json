@@ -81,7 +81,7 @@
                 "archived": false,
                 "id": 130285553,
                 "language": "Rust",
-                "last_commit": "2026-08-18T15:39:53Z",
+                "last_commit": "2026-08-20T01:38:38Z",
                 "owner": "immunant",
                 "repo": "c2rust",
                 "stars": 4788
@@ -118,10 +118,10 @@
                 "archived": false,
                 "id": 12418999,
                 "language": "Go",
-                "last_commit": "2026-07-27T14:50:07Z",
+                "last_commit": "2026-08-20T17:56:18Z",
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13174
+                "stars": 13175
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 94876336,
                 "language": "Java",
-                "last_commit": "2026-08-19T19:00:09Z",
+                "last_commit": "2026-08-20T19:48:46Z",
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1374
@@ -179,7 +179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T19:53:16.529Z",
+    "last_updated": "2026-08-20T19:58:38.556Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_id": 207972696,
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
