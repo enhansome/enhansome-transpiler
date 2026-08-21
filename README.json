@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-03T03:18:51Z",
                 "owner": "elliotchance",
                 "repo": "c2go",
-                "stars": 2183
+                "stars": 2184
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2017-08-07T15:36:34Z",
                 "owner": "owenthereal",
                 "repo": "godzilla",
-                "stars": 1476
+                "stars": 1477
               }
             },
             {
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 130285553,
                 "language": "Rust",
-                "last_commit": "2026-08-20T01:38:38Z",
+                "last_commit": "2026-08-21T19:39:28Z",
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4788
+                "stars": 4789
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2026-08-20T17:56:18Z",
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13175
+                "stars": 13178
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2019-08-20T14:46:14Z",
                 "owner": "elixirscript",
                 "repo": "elixirscript",
-                "stars": 1564
+                "stars": 1565
               }
             },
             {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 94876336,
                 "language": "Java",
-                "last_commit": "2026-08-20T19:48:46Z",
+                "last_commit": "2026-08-21T17:32:06Z",
                 "owner": "google",
                 "repo": "j2cl",
-                "stars": 1374
+                "stars": 1375
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2023-06-17T23:20:38Z",
                 "owner": "shift-js",
                 "repo": "shift-js",
-                "stars": 1273
+                "stars": 1272
               }
             }
           ],
@@ -179,7 +179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:58:38.556Z",
+    "last_updated": "2026-08-21T19:51:00.757Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_id": 207972696,
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
