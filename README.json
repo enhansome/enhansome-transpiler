@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 85363897,
                 "language": "Go",
-                "last_commit": "2026-08-03T03:18:51Z",
+                "last_commit": "2026-08-21T22:49:35Z",
                 "owner": "elliotchance",
                 "repo": "c2go",
                 "stars": 2184
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-06T07:56:58Z",
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 42
+                "stars": 43
               }
             }
           ],
@@ -81,10 +81,10 @@
                 "archived": false,
                 "id": 130285553,
                 "language": "Rust",
-                "last_commit": "2026-08-21T19:39:28Z",
+                "last_commit": "2026-08-21T23:46:39Z",
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4789
+                "stars": 4791
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2026-08-20T17:56:18Z",
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13178
+                "stars": 13180
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 94876336,
                 "language": "Java",
-                "last_commit": "2026-08-21T17:32:06Z",
+                "last_commit": "2026-08-22T01:11:38Z",
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1375
@@ -179,7 +179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:51:00.757Z",
+    "last_updated": "2026-08-22T19:50:10.301Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_id": 207972696,
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
