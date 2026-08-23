@@ -84,7 +84,7 @@
                 "last_commit": "2026-08-21T23:46:39Z",
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4791
+                "stars": 4792
               }
             },
             {
@@ -121,7 +121,7 @@
                 "last_commit": "2026-08-20T17:56:18Z",
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13180
+                "stars": 13181
               }
             },
             {
@@ -179,7 +179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T19:50:10.301Z",
+    "last_updated": "2026-08-23T19:49:26.924Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_id": 207972696,
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
