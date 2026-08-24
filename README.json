@@ -7,6 +7,66 @@
           "children": [
             {
               "node_type": "item",
+              "title": "py2many",
+              "description": "py2many can transpile a subset of python to",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Rust - standalone as well as pyO3",
+                  "description": "extension.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 91151442,
+                    "language": "Rust",
+                    "last_commit": "2026-08-24T09:42:58Z",
+                    "owner": "PyO3",
+                    "repo": "pyo3",
+                    "stars": 16063
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 332357790,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:14:15Z",
+                "owner": "py2many",
+                "repo": "py2many",
+                "stars": 1308
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi Language"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aleph Ollama",
+              "description": "AI-powered source code translation tool using local Ollama API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1005715507,
+                "language": "Erlang",
+                "last_commit": "2025-10-12T09:15:08Z",
+                "owner": "aleph-lang",
+                "repo": "aleph_ollama_erlang",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Erlang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Grumpy",
               "description": "Grumpy is a Python to Go source code transcompiler and runtime.",
               "children": [],
@@ -17,7 +77,7 @@
                 "last_commit": "2022-01-18T09:01:43Z",
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10493
+                "stars": 10492
               }
             },
             {
@@ -69,6 +129,28 @@
           "description": null,
           "node_type": "group",
           "title": "Golang"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VOC",
+              "description": "A transpiler that converts Python code into Java bytecode.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 40796389,
+                "language": "Python",
+                "last_commit": "2020-05-31T04:31:29Z",
+                "owner": "beeware",
+                "repo": "voc",
+                "stars": 859
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Java"
         },
         {
           "children": [
@@ -151,7 +233,7 @@
                 "last_commit": "2026-08-22T01:11:38Z",
                 "owner": "google",
                 "repo": "j2cl",
-                "stars": 1375
+                "stars": 1376
               }
             },
             {
@@ -173,13 +255,35 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rust-ppc-tiger",
+              "description": "Rust to PowerPC assembly transpiler targeting Mac OS X Tiger (10.4) and Leopard (10.5). Generates native PPC/AltiVec assembly from Rust source files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1122474296,
+                "language": "C",
+                "last_commit": "2026-08-06T02:33:08Z",
+                "owner": "Scottcjn",
+                "repo": "rust-ppc-tiger",
+                "stars": 68
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PowerPC Assembly"
         }
       ],
       "title": "By Target Language"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:49:26.924Z",
+    "last_updated": "2026-08-24T14:50:26.523Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_id": 207972696,
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
