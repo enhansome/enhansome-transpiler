@@ -19,10 +19,10 @@
                     "archived": false,
                     "id": 91151442,
                     "language": "Rust",
-                    "last_commit": "2026-08-24T09:42:58Z",
+                    "last_commit": "2026-08-24T17:18:43Z",
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16063
+                    "stars": 16064
                   }
                 }
               ],
@@ -30,7 +30,7 @@
                 "archived": false,
                 "id": 332357790,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:14:15Z",
+                "last_commit": "2026-08-24T16:46:32Z",
                 "owner": "py2many",
                 "repo": "py2many",
                 "stars": 1308
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 94876336,
                 "language": "Java",
-                "last_commit": "2026-08-22T01:11:38Z",
+                "last_commit": "2026-08-24T19:20:00Z",
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1376
@@ -283,7 +283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:50:26.523Z",
+    "last_updated": "2026-08-24T19:58:02.468Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_id": 207972696,
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
