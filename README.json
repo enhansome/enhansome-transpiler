@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-24T22:44:20Z",
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16064
+                    "stars": 16066
                   }
                 }
               ],
@@ -30,7 +30,7 @@
                 "archived": false,
                 "id": 332357790,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:46:32Z",
+                "last_commit": "2026-08-25T19:21:38Z",
                 "owner": "py2many",
                 "repo": "py2many",
                 "stars": 1308
@@ -144,7 +144,7 @@
                 "last_commit": "2020-05-31T04:31:29Z",
                 "owner": "beeware",
                 "repo": "voc",
-                "stars": 859
+                "stars": 858
               }
             }
           ],
@@ -163,10 +163,10 @@
                 "archived": false,
                 "id": 130285553,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:00:15Z",
+                "last_commit": "2026-08-25T15:03:11Z",
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4792
+                "stars": 4794
               }
             },
             {
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 94876336,
                 "language": "Java",
-                "last_commit": "2026-08-25T03:38:15Z",
+                "last_commit": "2026-08-25T19:42:22Z",
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1376
@@ -283,7 +283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:39:10.408Z",
+    "last_updated": "2026-08-25T19:57:59.237Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_id": 207972696,
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
