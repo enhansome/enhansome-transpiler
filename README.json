@@ -22,7 +22,7 @@
                     "last_commit": "2026-08-24T22:44:20Z",
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16066
+                    "stars": 16074
                   }
                 }
               ],
@@ -163,7 +163,7 @@
                 "archived": false,
                 "id": 130285553,
                 "language": "Rust",
-                "last_commit": "2026-08-25T15:03:11Z",
+                "last_commit": "2026-08-25T21:40:29Z",
                 "owner": "immunant",
                 "repo": "c2rust",
                 "stars": 4794
@@ -230,10 +230,10 @@
                 "archived": false,
                 "id": 94876336,
                 "language": "Java",
-                "last_commit": "2026-08-25T19:42:22Z",
+                "last_commit": "2026-08-26T20:44:57Z",
                 "owner": "google",
                 "repo": "j2cl",
-                "stars": 1376
+                "stars": 1377
               }
             },
             {
@@ -283,7 +283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:57:59.237Z",
+    "last_updated": "2026-08-26T22:27:02.611Z",
     "original_repository": "transpiler/awesome-transpiler",
     "original_repository_id": 207972696,
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
