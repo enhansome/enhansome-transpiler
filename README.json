@@ -17,24 +17,55 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rust bindings for the Python interpreter",
+                    "homepage": "https://pyo3.rs",
                     "id": 91151442,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T23:17:31Z",
+                    "open_issues": 392,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16082
+                    "stars": 16083,
+                    "topics": [
+                      "binding",
+                      "ffi",
+                      "python",
+                      "python-c-api",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:24:58.623Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Transpiler of Python to many other languages",
+                "homepage": null,
                 "id": 332357790,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T19:21:38Z",
+                "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1308
+                "stars": 1308,
+                "topics": [
+                  "ast",
+                  "dart",
+                  "dlang",
+                  "golang",
+                  "julia",
+                  "kotlin",
+                  "mojo",
+                  "nim",
+                  "python",
+                  "rust",
+                  "smt",
+                  "transpiler",
+                  "vlang",
+                  "ziglang"
+                ]
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             }
@@ -52,12 +83,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An experimental library for translating source code to different programming languages using Ollama.",
+                "homepage": null,
                 "id": 1005715507,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-12T09:15:08Z",
+                "open_issues": 0,
                 "owner": "aleph-lang",
                 "repo": "aleph_ollama_erlang",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             }
@@ -75,12 +111,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Grumpy is a Python to Go source code transcompiler and runtime.",
+                "homepage": null,
                 "id": 77073851,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-18T09:01:43Z",
+                "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10492
+                "stars": 10492,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             },
@@ -91,12 +132,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚖️ A tool for transpiling C to Go.",
+                "homepage": null,
                 "id": 85363897,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-21T22:49:35Z",
+                "open_issues": 183,
                 "owner": "elliotchance",
                 "repo": "c2go",
-                "stars": 2184
+                "stars": 2184,
+                "topics": [
+                  "c",
+                  "go",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             },
@@ -107,12 +157,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Godzilla is a ES2015 to Go source code transpiler and runtime",
+                "homepage": "https://github.com/jingweno/godzilla",
                 "id": 91023587,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2017-08-07T15:36:34Z",
+                "open_issues": 8,
                 "owner": "owenthereal",
                 "repo": "godzilla",
-                "stars": 1477
+                "stars": 1477,
+                "topics": [
+                  "compiler",
+                  "es2015",
+                  "golang",
+                  "javascript",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             },
@@ -123,12 +184,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scala on Go. Sealed types, exhaustive pattern matching, Option/Either/Try, bind/also do-notation, and compile-time data-race safety — transpiled to plain Go with full third-party module interop, zero-reflection JSON, and IDE tooling.",
+                "homepage": "https://gala.fyi/",
                 "id": 1127142823,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T07:56:58Z",
+                "open_issues": 0,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "algebraic-data-types",
+                  "bazel",
+                  "compiler",
+                  "concurrency",
+                  "data-race",
+                  "do-notation",
+                  "functional-programming",
+                  "golang",
+                  "immutable",
+                  "monads",
+                  "option-type",
+                  "pattern-matching",
+                  "programming-language",
+                  "scala",
+                  "sealed-types",
+                  "static-typing",
+                  "sum-types",
+                  "transpiler",
+                  "type-inference",
+                  "type-safety"
+                ]
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             }
@@ -146,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " A transpiler that converts Python code into Java bytecode",
+                "homepage": "http://beeware.org/voc",
                 "id": 40796389,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-05-31T04:31:29Z",
+                "open_issues": 90,
                 "owner": "beeware",
                 "repo": "voc",
-                "stars": 858
+                "stars": 858,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             }
@@ -169,12 +261,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Migrate C code to Rust",
+                "homepage": "https://c2rust.com/",
                 "id": 130285553,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:17:42Z",
+                "open_issues": 386,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4795
+                "stars": 4795,
+                "topics": [
+                  "memory-safety",
+                  "migration",
+                  "rust",
+                  "security-hardening",
+                  "translation",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             },
@@ -185,12 +289,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimental translator source code",
+                "homepage": null,
                 "id": 889731888,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-03-27T17:21:20Z",
+                "open_issues": 0,
                 "owner": "aleph-lang",
                 "repo": "aleph_ollama",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             }
@@ -208,12 +317,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A compiler from Go to JavaScript for running Go code in a browser",
+                "homepage": null,
                 "id": 12418999,
                 "language": "Go",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-20T17:56:18Z",
+                "open_issues": 189,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13181
+                "stars": 13181,
+                "topics": [
+                  "compiler",
+                  "go",
+                  "golang",
+                  "hacktoberfest",
+                  "javascript"
+                ]
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             },
@@ -224,12 +344,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts Elixir to JavaScript",
+                "homepage": "https://elixirscript.github.io/",
                 "id": 30160313,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2019-08-20T14:46:14Z",
+                "open_issues": 19,
                 "owner": "elixirscript",
                 "repo": "elixirscript",
-                "stars": 1565
+                "stars": 1565,
+                "topics": [
+                  "compiler",
+                  "elixir",
+                  "javascript",
+                  "transpiler"
+                ]
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             },
@@ -240,12 +370,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java to Closure JavaScript transpiler",
+                "homepage": null,
                 "id": 94876336,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:23:52Z",
+                "open_issues": 31,
                 "owner": "google",
                 "repo": "j2cl",
-                "stars": 1378
+                "stars": 1378,
+                "topics": [
+                  "compiler",
+                  "gwt",
+                  "j2cl",
+                  "java",
+                  "javascript",
+                  "transpiler",
+                  "wasm",
+                  "wasmgc"
+                ]
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             },
@@ -256,12 +400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Swift to JavaScript transpiler",
+                "homepage": null,
                 "id": 44151040,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-06-17T23:20:38Z",
+                "open_issues": 6,
                 "owner": "shift-js",
                 "repo": "shift-js",
-                "stars": 1272
+                "stars": 1272,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             }
@@ -279,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust compiler for PowerPC Mac OS X Tiger - generates native PPC/AltiVec assembly",
+                "homepage": "https://rustchain.org",
                 "id": 1122474296,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-06T02:33:08Z",
+                "open_issues": 0,
                 "owner": "Scottcjn",
                 "repo": "rust-ppc-tiger",
-                "stars": 68
+                "stars": 68,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
             }
@@ -298,15 +452,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:24:58.623Z",
+    "last_updated": "2026-08-29T05:04:16.472Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome transpilers.",
+      "homepage": null,
       "id": 207972696,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-03-18T06:17:10Z",
+      "open_issues": 3,
       "owner": "transpiler",
       "repo": "awesome-transpiler",
-      "stars": 61
+      "stars": 61,
+      "topics": [
+        "awesome-list",
+        "transpile",
+        "transpiler",
+        "transpiling"
+      ]
     },
     "original_repository_sha": "36a8b213a66077371c60eef3efb347d860d50056",
     "enhanced_repository": "enhansome/enhansome-transpiler",
