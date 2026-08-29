@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-28T23:17:31Z",
-                    "open_issues": 392,
+                    "last_commit": "2026-08-29T11:58:31Z",
+                    "open_issues": 395,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16083,
+                    "stars": 16086,
                     "topics": [
                       "binding",
                       "ffi",
@@ -267,10 +267,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:17:42Z",
-                "open_issues": 386,
+                "open_issues": 387,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4795,
+                "stars": 4794,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:04:16.472Z",
+    "last_updated": "2026-08-29T21:55:12.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",

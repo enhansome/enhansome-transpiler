@@ -5,7 +5,7 @@
 ### Multi Language
 
 * [py2many](https://github.com/adsharma/py2many) ⭐ 1,308 | 🐛 122 | 🌐 Python | 📅 2026-08-25 py2many can transpile a subset of python to
-  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,083 | 🐛 392 | 🌐 Rust | 📅 2026-08-28 extension.
+  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,086 | 🐛 395 | 🌐 Rust | 📅 2026-08-29 extension.
   * C++
   * Go
   * Julia
@@ -31,7 +31,7 @@
 
 ### Rust
 
-* [C2Rust](https://github.com/immunant/c2rust) ⭐ 4,795 | 🐛 386 | 🌐 Rust | 📅 2026-08-28 Migrate C code to Rust.
+* [C2Rust](https://github.com/immunant/c2rust) ⭐ 4,794 | 🐛 387 | 🌐 Rust | 📅 2026-08-28 Migrate C code to Rust.
 * [Aleph Ollama](https://github.com/aleph-lang/aleph_ollama) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2025-03-27 - AI-powered source code translation tool using local Ollama API.
 
 ### JavaScript
