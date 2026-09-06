@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T08:40:37Z",
-                    "open_issues": 391,
+                    "last_commit": "2026-09-06T18:19:10Z",
+                    "open_issues": 393,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16105,
+                    "stars": 16107,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1312,
+                "stars": 1313,
                 "topics": [
                   "ast",
                   "dart",
@@ -193,7 +193,7 @@
                 "open_issues": 0,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 46,
+                "stars": 47,
                 "topics": [
                   "algebraic-data-types",
                   "bazel",
@@ -270,7 +270,7 @@
                 "open_issues": 390,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4798,
+                "stars": 4799,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T21:37:31.549Z",
+    "last_updated": "2026-09-06T21:38:59.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
