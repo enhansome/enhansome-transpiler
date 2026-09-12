@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-11T05:38:42Z",
+                    "last_commit": "2026-09-12T21:00:26Z",
                     "open_issues": 399,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16127,
+                    "stars": 16129,
                     "topics": [
                       "binding",
                       "ffi",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10492,
+                "stars": 10493,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T02:21:53Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-12T19:46:06Z",
+                "open_issues": 1,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 50,
@@ -267,7 +267,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-11T07:44:43Z",
-                "open_issues": 393,
+                "open_issues": 396,
                 "owner": "immunant",
                 "repo": "c2rust",
                 "stars": 4800,
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T22:59:35Z",
+                "last_commit": "2026-09-12T12:05:11Z",
                 "open_issues": 29,
                 "owner": "google",
                 "repo": "j2cl",
@@ -437,7 +437,7 @@
                 "open_issues": 0,
                 "owner": "Scottcjn",
                 "repo": "rust-ppc-tiger",
-                "stars": 71,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:52:37.818Z",
+    "last_updated": "2026-09-12T21:35:54.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
