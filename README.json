@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T21:00:26Z",
-                    "open_issues": 399,
+                    "last_commit": "2026-09-13T07:24:06Z",
+                    "open_issues": 394,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16129,
+                    "stars": 16132,
                     "topics": [
                       "binding",
                       "ffi",
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T19:46:06Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-13T21:34:22Z",
+                "open_issues": 2,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 50,
@@ -270,7 +270,7 @@
                 "open_issues": 396,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4800,
+                "stars": 4799,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -326,7 +326,7 @@
                 "open_issues": 189,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13182,
+                "stars": 13183,
                 "topics": [
                   "compiler",
                   "go",
@@ -379,7 +379,7 @@
                 "open_issues": 29,
                 "owner": "google",
                 "repo": "j2cl",
-                "stars": 1379,
+                "stars": 1380,
                 "topics": [
                   "compiler",
                   "gwt",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:35:54.028Z",
+    "last_updated": "2026-09-13T21:37:00.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
@@ -464,7 +464,7 @@
       "open_issues": 3,
       "owner": "transpiler",
       "repo": "awesome-transpiler",
-      "stars": 61,
+      "stars": 62,
       "topics": [
         "awesome-list",
         "transpile",
