@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-13T07:24:06Z",
-                    "open_issues": 394,
+                    "last_commit": "2026-09-14T21:52:44Z",
+                    "open_issues": 396,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16132,
+                    "stars": 16138,
                     "topics": [
                       "binding",
                       "ffi",
@@ -189,11 +189,11 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T21:34:22Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-14T05:58:18Z",
+                "open_issues": 0,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "algebraic-data-types",
                   "bazel",
@@ -270,7 +270,7 @@
                 "open_issues": 396,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4799,
+                "stars": 4800,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T12:05:11Z",
+                "last_commit": "2026-09-14T20:29:02Z",
                 "open_issues": 29,
                 "owner": "google",
                 "repo": "j2cl",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T21:37:00.221Z",
+    "last_updated": "2026-09-14T22:42:42.906Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
