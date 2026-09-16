@@ -4,8 +4,8 @@
 
 ### Multi Language
 
-* [py2many](https://github.com/adsharma/py2many) ⭐ 1,315 | 🐛 122 | 🌐 Python | 📅 2026-09-01 py2many can transpile a subset of python to
-  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,140 | 🐛 397 | 🌐 Rust | 📅 2026-09-15 extension.
+* [py2many](https://github.com/adsharma/py2many) ⭐ 1,317 | 🐛 122 | 🌐 Python | 📅 2026-09-01 py2many can transpile a subset of python to
+  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,143 | 🐛 392 | 🌐 Rust | 📅 2026-09-16 extension.
   * C++
   * Go
   * Julia
@@ -31,14 +31,14 @@
 
 ### Rust
 
-* [C2Rust](https://github.com/immunant/c2rust) ⭐ 4,800 | 🐛 395 | 🌐 Rust | 📅 2026-09-15 Migrate C code to Rust.
+* [C2Rust](https://github.com/immunant/c2rust) ⭐ 4,800 | 🐛 397 | 🌐 Rust | 📅 2026-09-15 Migrate C code to Rust.
 * [Aleph Ollama](https://github.com/aleph-lang/aleph_ollama) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2025-03-27 - AI-powered source code translation tool using local Ollama API.
 
 ### JavaScript
 
-* [GopherJS](https://github.com/gopherjs/gopherjs) ⭐ 13,183 | 🐛 189 | 🌐 Go | 📅 2026-08-20 A compiler from Go to JavaScript for running Go code in a browser.
+* [GopherJS](https://github.com/gopherjs/gopherjs) ⭐ 13,182 | 🐛 189 | 🌐 Go | 📅 2026-08-20 A compiler from Go to JavaScript for running Go code in a browser.
 * [ElixirScript](https://github.com/elixirscript/elixirscript) ⭐ 1,565 | 🐛 19 | 🌐 Elixir | 📅 2019-08-20 Converts Elixir to JavaScript.
-* [J2CL](https://github.com/google/j2cl) ⭐ 1,380 | 🐛 29 | 🌐 Java | 📅 2026-09-15 Java to Closure JavaScript transpiler.
+* [J2CL](https://github.com/google/j2cl) ⭐ 1,380 | 🐛 29 | 🌐 Java | 📅 2026-09-16 Java to Closure JavaScript transpiler.
 * [Shift.JS](https://github.com/shift-js/shift-js) ⭐ 1,271 | 🐛 6 | 🌐 JavaScript | 📅 2023-06-17 Swift to JavaScript transpiler.
 * [JSweet](https://www.jsweet.org/) A transpiler from Java to TypeScript/JavaScript.
 * [Dart2js](https://dart.dev/tools/dart2js) Use the dart2js tool to compile Dart code to deployable JavaScript.
@@ -49,4 +49,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
