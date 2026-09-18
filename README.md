@@ -4,8 +4,8 @@
 
 ### Multi Language
 
-* [py2many](https://github.com/adsharma/py2many) ⭐ 1,316 | 🐛 122 | 🌐 Python | 📅 2026-09-01 py2many can transpile a subset of python to
-  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,150 | 🐛 394 | 🌐 Rust | 📅 2026-09-17 extension.
+* [py2many](https://github.com/adsharma/py2many) ⭐ 1,318 | 🐛 122 | 🌐 Python | 📅 2026-09-01 py2many can transpile a subset of python to
+  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,152 | 🐛 394 | 🌐 Rust | 📅 2026-09-18 extension.
   * C++
   * Go
   * Julia
@@ -36,9 +36,9 @@
 
 ### JavaScript
 
-* [GopherJS](https://github.com/gopherjs/gopherjs) ⭐ 13,181 | 🐛 189 | 🌐 Go | 📅 2026-08-20 A compiler from Go to JavaScript for running Go code in a browser.
+* [GopherJS](https://github.com/gopherjs/gopherjs) ⭐ 13,183 | 🐛 189 | 🌐 Go | 📅 2026-08-20 A compiler from Go to JavaScript for running Go code in a browser.
 * [ElixirScript](https://github.com/elixirscript/elixirscript) ⭐ 1,565 | 🐛 23 | 🌐 Elixir | 📅 2019-08-20 Converts Elixir to JavaScript.
-* [J2CL](https://github.com/google/j2cl) ⭐ 1,380 | 🐛 29 | 🌐 Java | 📅 2026-09-17 Java to Closure JavaScript transpiler.
+* [J2CL](https://github.com/google/j2cl) ⭐ 1,380 | 🐛 30 | 🌐 Java | 📅 2026-09-18 Java to Closure JavaScript transpiler.
 * [Shift.JS](https://github.com/shift-js/shift-js) ⭐ 1,271 | 🐛 6 | 🌐 JavaScript | 📅 2023-06-17 Swift to JavaScript transpiler.
 * [JSweet](https://www.jsweet.org/) A transpiler from Java to TypeScript/JavaScript.
 * [Dart2js](https://dart.dev/tools/dart2js) Use the dart2js tool to compile Dart code to deployable JavaScript.
@@ -49,4 +49,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

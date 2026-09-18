@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-17T15:41:23Z",
+                    "last_commit": "2026-09-18T16:40:55Z",
                     "open_issues": 394,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16150,
+                    "stars": 16152,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1316,
+                "stars": 1318,
                 "topics": [
                   "ast",
                   "dart",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10493,
+                "stars": 10492,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -326,7 +326,7 @@
                 "open_issues": 189,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13181,
+                "stars": 13183,
                 "topics": [
                   "compiler",
                   "go",
@@ -375,8 +375,8 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T22:23:09Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-18T20:11:12Z",
+                "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1380,
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T22:24:00.472Z",
+    "last_updated": "2026-09-18T21:48:14.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
