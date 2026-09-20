@@ -23,10 +23,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-19T00:49:29Z",
-                    "open_issues": 404,
+                    "open_issues": 406,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16151,
+                    "stars": 16156,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1318,
+                "stars": 1320,
                 "topics": [
                   "ast",
                   "dart",
@@ -189,7 +189,7 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T05:58:18Z",
+                "last_commit": "2026-09-20T15:22:25Z",
                 "open_issues": 0,
                 "owner": "martianoff",
                 "repo": "gala",
@@ -326,7 +326,7 @@
                 "open_issues": 189,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13183,
+                "stars": 13184,
                 "topics": [
                   "compiler",
                   "go",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:41:51.015Z",
+    "last_updated": "2026-09-20T21:46:20.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
