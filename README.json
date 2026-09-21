@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-19T00:49:29Z",
-                    "open_issues": 406,
+                    "last_commit": "2026-09-21T17:13:15Z",
+                    "open_issues": 405,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16156,
+                    "stars": 16158,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1320,
+                "stars": 1321,
                 "topics": [
                   "ast",
                   "dart",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10491,
+                "stars": 10492,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -267,10 +267,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-19T01:47:03Z",
-                "open_issues": 396,
+                "open_issues": 398,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4802,
+                "stars": 4803,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T20:11:12Z",
+                "last_commit": "2026-09-21T22:32:41Z",
                 "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T21:46:20.074Z",
+    "last_updated": "2026-09-21T22:46:47.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
