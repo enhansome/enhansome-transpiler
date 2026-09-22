@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-21T17:13:15Z",
-                    "open_issues": 405,
+                    "last_commit": "2026-09-22T09:27:50Z",
+                    "open_issues": 403,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16158,
+                    "stars": 16164,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1321,
+                "stars": 1322,
                 "topics": [
                   "ast",
                   "dart",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10492,
+                "stars": 10491,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T15:22:25Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-22T06:57:59Z",
+                "open_issues": 1,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 52,
@@ -266,11 +266,11 @@
                 "id": 130285553,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T01:47:03Z",
-                "open_issues": 398,
+                "last_commit": "2026-09-22T04:30:30Z",
+                "open_issues": 397,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4803,
+                "stars": 4804,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,8 +375,8 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T22:32:41Z",
-                "open_issues": 30,
+                "last_commit": "2026-09-22T15:38:17Z",
+                "open_issues": 31,
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1380,
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:46:47.382Z",
+    "last_updated": "2026-09-22T22:23:19.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
