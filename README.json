@@ -23,10 +23,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-25T15:25:06Z",
-                    "open_issues": 402,
+                    "open_issues": 405,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16179,
+                    "stars": 16181,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1323,
+                "stars": 1324,
                 "topics": [
                   "ast",
                   "dart",
@@ -189,11 +189,11 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T20:34:05Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-27T22:10:16Z",
+                "open_issues": 6,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 52,
+                "stars": 53,
                 "topics": [
                   "algebraic-data-types",
                   "bazel",
@@ -267,10 +267,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-24T02:28:50Z",
-                "open_issues": 398,
+                "open_issues": 399,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4807,
+                "stars": 4808,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -326,7 +326,7 @@
                 "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13187,
+                "stars": 13186,
                 "topics": [
                   "compiler",
                   "go",
@@ -379,7 +379,7 @@
                 "open_issues": 31,
                 "owner": "google",
                 "repo": "j2cl",
-                "stars": 1380,
+                "stars": 1381,
                 "topics": [
                   "compiler",
                   "gwt",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T22:09:48.176Z",
+    "last_updated": "2026-09-27T22:31:45.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
