@@ -22,7 +22,7 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T18:01:41Z",
+                    "last_commit": "2026-10-01T22:50:33Z",
                     "open_issues": 407,
                     "owner": "PyO3",
                     "repo": "pyo3",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1326,
+                "stars": 1327,
                 "topics": [
                   "ast",
                   "dart",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T22:44:12Z",
+                "last_commit": "2026-10-01T21:13:11Z",
                 "open_issues": 31,
                 "owner": "google",
                 "repo": "j2cl",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T23:10:20.818Z",
+    "last_updated": "2026-10-01T23:23:27.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
