@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T22:50:33Z",
-                    "open_issues": 407,
+                    "last_commit": "2026-10-02T19:33:04Z",
+                    "open_issues": 406,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16197,
+                    "stars": 16198,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1327,
+                "stars": 1329,
                 "topics": [
                   "ast",
                   "dart",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10494,
+                "stars": 10492,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -189,11 +189,11 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T02:37:28Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-02T16:10:33Z",
+                "open_issues": 8,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 54,
+                "stars": 55,
                 "topics": [
                   "algebraic-data-types",
                   "bazel",
@@ -267,10 +267,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-24T02:28:50Z",
-                "open_issues": 401,
+                "open_issues": 404,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4811,
+                "stars": 4810,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -326,7 +326,7 @@
                 "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13188,
+                "stars": 13187,
                 "topics": [
                   "compiler",
                   "go",
@@ -353,7 +353,7 @@
                 "open_issues": 23,
                 "owner": "elixirscript",
                 "repo": "elixirscript",
-                "stars": 1566,
+                "stars": 1565,
                 "topics": [
                   "compiler",
                   "elixir",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T21:13:11Z",
+                "last_commit": "2026-10-02T21:42:59Z",
                 "open_issues": 31,
                 "owner": "google",
                 "repo": "j2cl",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T23:23:27.720Z",
+    "last_updated": "2026-10-02T23:12:31.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
