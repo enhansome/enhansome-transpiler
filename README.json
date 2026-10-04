@@ -22,8 +22,8 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T19:33:04Z",
-                    "open_issues": 408,
+                    "last_commit": "2026-10-04T14:12:31Z",
+                    "open_issues": 410,
                     "owner": "PyO3",
                     "repo": "pyo3",
                     "stars": 16198,
@@ -45,8 +45,8 @@
                 "id": 332357790,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-01T18:57:36Z",
-                "open_issues": 122,
+                "last_commit": "2026-10-04T21:37:17Z",
+                "open_issues": 124,
                 "owner": "py2many",
                 "repo": "py2many",
                 "stars": 1329,
@@ -141,7 +141,7 @@
                 "open_issues": 183,
                 "owner": "elliotchance",
                 "repo": "c2go",
-                "stars": 2186,
+                "stars": 2187,
                 "topics": [
                   "c",
                   "go",
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T21:51:09Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-04T22:25:42Z",
+                "open_issues": 11,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 55,
@@ -267,7 +267,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-03T00:21:03Z",
-                "open_issues": 401,
+                "open_issues": 402,
                 "owner": "immunant",
                 "repo": "c2rust",
                 "stars": 4812,
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "aleph-lang",
                 "repo": "aleph_ollama",
-                "stars": 5,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -326,7 +326,7 @@
                 "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13186,
+                "stars": 13187,
                 "topics": [
                   "compiler",
                   "go",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:23:14.077Z",
+    "last_updated": "2026-10-04T22:28:42.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
