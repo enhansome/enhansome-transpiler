@@ -26,7 +26,7 @@
                     "open_issues": 403,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16203,
+                    "stars": 16205,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 124,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1328,
+                "stars": 1329,
                 "topics": [
                   "ast",
                   "dart",
@@ -193,7 +193,7 @@
                 "open_issues": 15,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 55,
+                "stars": 56,
                 "topics": [
                   "algebraic-data-types",
                   "bazel",
@@ -326,7 +326,7 @@
                 "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13187,
+                "stars": 13188,
                 "topics": [
                   "compiler",
                   "go",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T02:15:55Z",
+                "last_commit": "2026-10-06T20:29:16Z",
                 "open_issues": 32,
                 "owner": "google",
                 "repo": "j2cl",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:50:36.031Z",
+    "last_updated": "2026-10-06T23:12:38.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
