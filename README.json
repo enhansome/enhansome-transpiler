@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T10:43:16Z",
-                    "open_issues": 404,
+                    "last_commit": "2026-10-09T15:35:16Z",
+                    "open_issues": 403,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16213,
+                    "stars": 16216,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1330,
+                "stars": 1331,
                 "topics": [
                   "ast",
                   "dart",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10493,
+                "stars": 10492,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T05:45:21Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-09T05:53:44Z",
+                "open_issues": 6,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 57,
@@ -267,10 +267,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-08T11:05:22Z",
-                "open_issues": 402,
+                "open_issues": 404,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4814,
+                "stars": 4816,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -326,7 +326,7 @@
                 "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13189,
+                "stars": 13188,
                 "topics": [
                   "compiler",
                   "go",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T22:12:52Z",
+                "last_commit": "2026-10-09T22:36:19Z",
                 "open_issues": 31,
                 "owner": "google",
                 "repo": "j2cl",
@@ -409,7 +409,7 @@
                 "open_issues": 6,
                 "owner": "shift-js",
                 "repo": "shift-js",
-                "stars": 1270,
+                "stars": 1269,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -418,41 +418,13 @@
           "description": null,
           "node_type": "group",
           "title": "JavaScript"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "rust-ppc-tiger",
-              "description": "Rust to PowerPC assembly transpiler targeting Mac OS X Tiger (10.4) and Leopard (10.5). Generates native PPC/AltiVec assembly from Rust source files.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Rust compiler for PowerPC Mac OS X Tiger - generates native PPC/AltiVec assembly",
-                "homepage": "https://rustchain.org",
-                "id": 1122474296,
-                "language": "C",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-08-06T02:33:08Z",
-                "open_issues": 0,
-                "owner": "Scottcjn",
-                "repo": "rust-ppc-tiger",
-                "stars": 72,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T02:24:58.623Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "PowerPC Assembly"
         }
       ],
       "title": "By Target Language"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:54:12.604Z",
+    "last_updated": "2026-10-09T23:26:29.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
@@ -464,7 +436,7 @@
       "open_issues": 4,
       "owner": "transpiler",
       "repo": "awesome-transpiler",
-      "stars": 62,
+      "stars": 61,
       "topics": [
         "awesome-list",
         "transpile",
