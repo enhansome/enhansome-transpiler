@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T18:57:07Z",
-                    "open_issues": 397,
+                    "last_commit": "2026-10-13T22:23:58Z",
+                    "open_issues": 396,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16223,
+                    "stars": 16226,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 122,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1334,
+                "stars": 1333,
                 "topics": [
                   "ast",
                   "dart",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10491,
+                "stars": 10493,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -141,7 +141,7 @@
                 "open_issues": 183,
                 "owner": "elliotchance",
                 "repo": "c2go",
-                "stars": 2186,
+                "stars": 2187,
                 "topics": [
                   "c",
                   "go",
@@ -166,7 +166,7 @@
                 "open_issues": 8,
                 "owner": "owenthereal",
                 "repo": "godzilla",
-                "stars": 1475,
+                "stars": 1476,
                 "topics": [
                   "compiler",
                   "es2015",
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T06:09:14Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-13T19:13:29Z",
+                "open_issues": 8,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 57,
@@ -270,7 +270,7 @@
                 "open_issues": 403,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4818,
+                "stars": 4820,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -326,7 +326,7 @@
                 "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13189,
+                "stars": 13188,
                 "topics": [
                   "compiler",
                   "go",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T00:56:37Z",
+                "last_commit": "2026-10-13T22:42:19Z",
                 "open_issues": 32,
                 "owner": "google",
                 "repo": "j2cl",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:35:32.638Z",
+    "last_updated": "2026-10-13T23:23:56.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
