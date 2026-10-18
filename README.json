@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T21:19:27Z",
+                    "last_commit": "2026-10-18T20:36:15Z",
                     "open_issues": 400,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16242,
+                    "stars": 16245,
                     "topics": [
                       "binding",
                       "ffi",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10493,
+                "stars": 10492,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -189,11 +189,11 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T21:36:47Z",
+                "last_commit": "2026-10-18T06:29:25Z",
                 "open_issues": 1,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "algebraic-data-types",
                   "bazel",
@@ -267,10 +267,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-16T09:43:14Z",
-                "open_issues": 402,
+                "open_issues": 403,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4822,
+                "stars": 4823,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -326,7 +326,7 @@
                 "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13189,
+                "stars": 13190,
                 "topics": [
                   "compiler",
                   "go",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T09:36:51Z",
+                "last_commit": "2026-10-18T09:55:04Z",
                 "open_issues": 32,
                 "owner": "google",
                 "repo": "j2cl",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T21:40:41.267Z",
+    "last_updated": "2026-10-18T21:46:32.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
