@@ -23,10 +23,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-18T20:36:15Z",
-                    "open_issues": 400,
+                    "open_issues": 401,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16245,
+                    "stars": 16247,
                     "topics": [
                       "binding",
                       "ffi",
@@ -189,11 +189,11 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T06:29:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-19T09:55:26Z",
+                "open_issues": 10,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "algebraic-data-types",
                   "bazel",
@@ -270,7 +270,7 @@
                 "open_issues": 403,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4823,
+                "stars": 4824,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T09:55:04Z",
+                "last_commit": "2026-10-19T22:43:59Z",
                 "open_issues": 32,
                 "owner": "google",
                 "repo": "j2cl",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:46:32.451Z",
+    "last_updated": "2026-10-19T23:02:25.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
