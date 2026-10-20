@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T20:36:15Z",
-                    "open_issues": 401,
+                    "last_commit": "2026-10-20T18:50:16Z",
+                    "open_issues": 402,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16247,
+                    "stars": 16255,
                     "topics": [
                       "binding",
                       "ffi",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10492,
+                "stars": 10491,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T09:55:26Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-20T20:11:57Z",
+                "open_issues": 1,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 59,
@@ -270,7 +270,7 @@
                 "open_issues": 403,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4824,
+                "stars": 4825,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -326,7 +326,7 @@
                 "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13190,
+                "stars": 13192,
                 "topics": [
                   "compiler",
                   "go",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T22:43:59Z",
+                "last_commit": "2026-10-20T22:17:25Z",
                 "open_issues": 32,
                 "owner": "google",
                 "repo": "j2cl",
@@ -424,7 +424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:02:25.066Z",
+    "last_updated": "2026-10-20T22:35:11.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
