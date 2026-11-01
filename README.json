@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T08:43:45Z",
+                    "last_commit": "2026-11-01T20:36:14Z",
                     "open_issues": 415,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16291,
+                    "stars": 16293,
                     "topics": [
                       "binding",
                       "ffi",
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T22:02:51Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-01T22:29:16Z",
+                "open_issues": 9,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 65,
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T22:40:48Z",
+                "last_commit": "2026-11-01T22:12:54Z",
                 "open_issues": 31,
                 "owner": "google",
                 "repo": "j2cl",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:46:26.470Z",
+    "last_updated": "2026-11-01T22:59:42.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
