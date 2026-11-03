@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-01T20:36:14Z",
-                    "open_issues": 415,
+                    "last_commit": "2026-11-02T17:06:37Z",
+                    "open_issues": 411,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16293,
+                    "stars": 16294,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 123,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": [
                   "ast",
                   "dart",
@@ -166,7 +166,7 @@
                 "open_issues": 8,
                 "owner": "owenthereal",
                 "repo": "godzilla",
-                "stars": 1476,
+                "stars": 1477,
                 "topics": [
                   "compiler",
                   "es2015",
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T22:29:16Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-02T08:42:38Z",
+                "open_issues": 8,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 65,
@@ -270,7 +270,7 @@
                 "open_issues": 407,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4832,
+                "stars": 4833,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,11 +375,11 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-01T22:12:54Z",
+                "last_commit": "2026-11-03T01:43:20Z",
                 "open_issues": 31,
                 "owner": "google",
                 "repo": "j2cl",
-                "stars": 1381,
+                "stars": 1382,
                 "topics": [
                   "compiler",
                   "gwt",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:59:42.755Z",
+    "last_updated": "2026-11-03T01:45:05.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
