@@ -23,7 +23,7 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-02T17:06:37Z",
-                    "open_issues": 411,
+                    "open_issues": 412,
                     "owner": "PyO3",
                     "repo": "pyo3",
                     "stars": 16294,
@@ -45,7 +45,7 @@
                 "id": 332357790,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-31T17:35:55Z",
+                "last_commit": "2026-11-03T06:41:20Z",
                 "open_issues": 123,
                 "owner": "py2many",
                 "repo": "py2many",
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T08:42:38Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-03T11:38:30Z",
+                "open_issues": 4,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 65,
@@ -242,7 +242,7 @@
                 "open_issues": 90,
                 "owner": "beeware",
                 "repo": "voc",
-                "stars": 855,
+                "stars": 854,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -267,7 +267,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-26T11:05:46Z",
-                "open_issues": 407,
+                "open_issues": 408,
                 "owner": "immunant",
                 "repo": "c2rust",
                 "stars": 4833,
@@ -326,7 +326,7 @@
                 "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13195,
+                "stars": 13193,
                 "topics": [
                   "compiler",
                   "go",
@@ -375,8 +375,8 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T01:43:20Z",
-                "open_issues": 31,
+                "last_commit": "2026-11-03T23:03:55Z",
+                "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1382,
@@ -409,7 +409,7 @@
                 "open_issues": 6,
                 "owner": "shift-js",
                 "repo": "shift-js",
-                "stars": 1267,
+                "stars": 1266,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T01:45:05.235Z",
+    "last_updated": "2026-11-04T00:10:34.993Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
