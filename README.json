@@ -26,7 +26,7 @@
                     "open_issues": 413,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16301,
+                    "stars": 16300,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 123,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "ast",
                   "dart",
@@ -189,7 +189,7 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T05:01:17Z",
+                "last_commit": "2026-11-06T10:09:00Z",
                 "open_issues": 3,
                 "owner": "martianoff",
                 "repo": "gala",
@@ -270,7 +270,7 @@
                 "open_issues": 407,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4834,
+                "stars": 4833,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,11 +375,11 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T00:00:21Z",
+                "last_commit": "2026-11-06T23:24:31Z",
                 "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
-                "stars": 1382,
+                "stars": 1381,
                 "topics": [
                   "compiler",
                   "gwt",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T00:31:02.064Z",
+    "last_updated": "2026-11-06T23:47:38.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
