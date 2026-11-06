@@ -26,7 +26,7 @@
                     "open_issues": 413,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16296,
+                    "stars": 16301,
                     "topics": [
                       "binding",
                       "ffi",
@@ -138,7 +138,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-21T22:49:35Z",
-                "open_issues": 183,
+                "open_issues": 182,
                 "owner": "elliotchance",
                 "repo": "c2go",
                 "stars": 2189,
@@ -193,7 +193,7 @@
                 "open_issues": 3,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 65,
+                "stars": 64,
                 "topics": [
                   "algebraic-data-types",
                   "bazel",
@@ -266,11 +266,11 @@
                 "id": 130285553,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T20:50:35Z",
-                "open_issues": 409,
+                "last_commit": "2026-11-05T17:09:47Z",
+                "open_issues": 407,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4833,
+                "stars": 4834,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T00:26:38Z",
+                "last_commit": "2026-11-06T00:00:21Z",
                 "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
@@ -452,7 +452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:29:35.340Z",
+    "last_updated": "2026-11-06T00:31:02.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
