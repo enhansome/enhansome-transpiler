@@ -26,7 +26,7 @@
                     "open_issues": 413,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16300,
+                    "stars": 16306,
                     "topics": [
                       "binding",
                       "ffi",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10492,
+                "stars": 10491,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -270,7 +270,7 @@
                 "open_issues": 407,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4833,
+                "stars": 4835,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -323,7 +323,7 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-20T17:56:18Z",
-                "open_issues": 190,
+                "open_issues": 191,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
                 "stars": 13195,
@@ -375,11 +375,11 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T23:24:31Z",
+                "last_commit": "2026-11-07T06:12:56Z",
                 "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
-                "stars": 1381,
+                "stars": 1382,
                 "topics": [
                   "compiler",
                   "gwt",
@@ -438,7 +438,16 @@
                 "owner": "Scottcjn",
                 "repo": "rust-ppc-tiger",
                 "stars": 72,
-                "topics": []
+                "topics": [
+                  "altivec",
+                  "code-generation",
+                  "compiler",
+                  "mac-os-x-tiger",
+                  "powerpc",
+                  "retrocomputing",
+                  "rust",
+                  "vintage-computing"
+                ]
               },
               "first_seen": "2026-10-28T23:27:59.965Z"
             }
@@ -452,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T23:47:38.029Z",
+    "last_updated": "2026-11-07T22:56:26.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
