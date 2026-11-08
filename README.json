@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-02T17:06:37Z",
-                    "open_issues": 413,
+                    "last_commit": "2026-11-08T20:36:35Z",
+                    "open_issues": 415,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16306,
+                    "stars": 16307,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 123,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1347,
+                "stars": 1346,
                 "topics": [
                   "ast",
                   "dart",
@@ -270,7 +270,7 @@
                 "open_issues": 407,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4835,
+                "stars": 4836,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -323,7 +323,7 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-08-20T17:56:18Z",
-                "open_issues": 191,
+                "open_issues": 190,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
                 "stars": 13195,
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T22:56:26.652Z",
+    "last_updated": "2026-11-08T23:04:19.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
