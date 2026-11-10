@@ -23,10 +23,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-08T20:36:35Z",
-                    "open_issues": 415,
+                    "open_issues": 413,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16307,
+                    "stars": 16309,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 123,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1346,
+                "stars": 1345,
                 "topics": [
                   "ast",
                   "dart",
@@ -141,7 +141,7 @@
                 "open_issues": 182,
                 "owner": "elliotchance",
                 "repo": "c2go",
-                "stars": 2189,
+                "stars": 2190,
                 "topics": [
                   "c",
                   "go",
@@ -193,7 +193,7 @@
                 "open_issues": 3,
                 "owner": "martianoff",
                 "repo": "gala",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "algebraic-data-types",
                   "bazel",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T06:12:56Z",
+                "last_commit": "2026-11-10T02:13:46Z",
                 "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T23:04:19.317Z",
+    "last_updated": "2026-11-10T02:21:40.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",

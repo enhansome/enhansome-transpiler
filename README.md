@@ -4,8 +4,8 @@
 
 ### Multi Language
 
-* [py2many](https://github.com/adsharma/py2many) ⭐ 1,346 | 🐛 123 | 🌐 Python | 📅 2026-11-03 py2many can transpile a subset of python to
-  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,307 | 🐛 415 | 🌐 Rust | 📅 2026-11-08 extension.
+* [py2many](https://github.com/adsharma/py2many) ⭐ 1,345 | 🐛 123 | 🌐 Python | 📅 2026-11-03 py2many can transpile a subset of python to
+  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,309 | 🐛 413 | 🌐 Rust | 📅 2026-11-08 extension.
   * C++
   * Go
   * Julia
@@ -21,9 +21,9 @@
 ### Golang
 
 * [Grumpy](https://github.com/google/grumpy) ⚠️ Archived Grumpy is a Python to Go source code transcompiler and runtime.
-* [c2go](https://github.com/elliotchance/c2go) ⭐ 2,189 | 🐛 182 | 🌐 Go | 📅 2026-08-21 A tool for transpiling C to Go.
+* [c2go](https://github.com/elliotchance/c2go) ⭐ 2,190 | 🐛 182 | 🌐 Go | 📅 2026-08-21 A tool for transpiling C to Go.
 * [Godzilla](https://github.com/jingweno/godzilla) ⭐ 1,477 | 🐛 8 | 🌐 Go | 📅 2017-08-07 Godzilla is a ES2015 to Go source code transpiler and runtime.
-* [GALA](https://github.com/martianoff/gala) ⭐ 64 | 🐛 3 | 🌐 Go | 📅 2026-11-06 A functional programming language that transpiles to Go, adding sealed types, pattern matching, immutability by default, and monads.
+* [GALA](https://github.com/martianoff/gala) ⭐ 65 | 🐛 3 | 🌐 Go | 📅 2026-11-06 A functional programming language that transpiles to Go, adding sealed types, pattern matching, immutability by default, and monads.
 
 ### Java
 
@@ -38,7 +38,7 @@
 
 * [GopherJS](https://github.com/gopherjs/gopherjs) ⭐ 13,195 | 🐛 190 | 🌐 Go | 📅 2026-08-20 A compiler from Go to JavaScript for running Go code in a browser.
 * [ElixirScript](https://github.com/elixirscript/elixirscript) ⭐ 1,566 | 🐛 23 | 🌐 Elixir | 📅 2019-08-20 Converts Elixir to JavaScript.
-* [J2CL](https://github.com/google/j2cl) ⭐ 1,382 | 🐛 30 | 🌐 Java | 📅 2026-11-07 Java to Closure JavaScript transpiler.
+* [J2CL](https://github.com/google/j2cl) ⭐ 1,382 | 🐛 30 | 🌐 Java | 📅 2026-11-10 Java to Closure JavaScript transpiler.
 * [Shift.JS](https://github.com/shift-js/shift-js) ⭐ 1,266 | 🐛 6 | 🌐 JavaScript | 📅 2023-06-17 Swift to JavaScript transpiler.
 * [JSweet](https://www.jsweet.org/) A transpiler from Java to TypeScript/JavaScript.
 * [Dart2js](https://dart.dev/tools/dart2js) Use the dart2js tool to compile Dart code to deployable JavaScript.
@@ -49,4 +49,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
