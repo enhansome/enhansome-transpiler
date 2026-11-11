@@ -26,7 +26,7 @@
                     "open_issues": 413,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16309,
+                    "stars": 16315,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 123,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1345,
+                "stars": 1346,
                 "topics": [
                   "ast",
                   "dart",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10491,
+                "stars": 10492,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -166,7 +166,7 @@
                 "open_issues": 8,
                 "owner": "owenthereal",
                 "repo": "godzilla",
-                "stars": 1477,
+                "stars": 1478,
                 "topics": [
                   "compiler",
                   "es2015",
@@ -242,7 +242,7 @@
                 "open_issues": 90,
                 "owner": "beeware",
                 "repo": "voc",
-                "stars": 854,
+                "stars": 855,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -270,7 +270,7 @@
                 "open_issues": 407,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4836,
+                "stars": 4837,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -353,7 +353,7 @@
                 "open_issues": 23,
                 "owner": "elixirscript",
                 "repo": "elixirscript",
-                "stars": 1566,
+                "stars": 1567,
                 "topics": [
                   "compiler",
                   "elixir",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T02:13:46Z",
+                "last_commit": "2026-11-10T22:37:50Z",
                 "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
@@ -409,7 +409,7 @@
                 "open_issues": 6,
                 "owner": "shift-js",
                 "repo": "shift-js",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:21:40.021Z",
+    "last_updated": "2026-11-11T00:12:51.082Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
