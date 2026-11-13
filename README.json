@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-11T22:37:16Z",
-                    "open_issues": 417,
+                    "last_commit": "2026-11-12T18:37:45Z",
+                    "open_issues": 418,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16327,
+                    "stars": 16337,
                     "topics": [
                       "binding",
                       "ffi",
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T01:35:40Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-12T16:17:17Z",
+                "open_issues": 10,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 65,
@@ -326,7 +326,7 @@
                 "open_issues": 189,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13195,
+                "stars": 13197,
                 "topics": [
                   "compiler",
                   "go",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T00:33:24Z",
+                "last_commit": "2026-11-13T00:18:29Z",
                 "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:38:25.358Z",
+    "last_updated": "2026-11-13T00:39:41.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
