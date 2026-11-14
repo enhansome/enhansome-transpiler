@@ -4,8 +4,8 @@
 
 ### Multi Language
 
-* [py2many](https://github.com/adsharma/py2many) ⭐ 1,346 | 🐛 123 | 🌐 Python | 📅 2026-11-03 py2many can transpile a subset of python to
-  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,337 | 🐛 418 | 🌐 Rust | 📅 2026-11-12 extension.
+* [py2many](https://github.com/adsharma/py2many) ⭐ 1,347 | 🐛 123 | 🌐 Python | 📅 2026-11-03 py2many can transpile a subset of python to
+  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,324 | 🐛 417 | 🌐 Rust | 📅 2026-11-13 extension.
   * C++
   * Go
   * Julia
@@ -23,7 +23,7 @@
 * [Grumpy](https://github.com/google/grumpy) ⚠️ Archived Grumpy is a Python to Go source code transcompiler and runtime.
 * [c2go](https://github.com/elliotchance/c2go) ⭐ 2,190 | 🐛 182 | 🌐 Go | 📅 2026-08-21 A tool for transpiling C to Go.
 * [Godzilla](https://github.com/jingweno/godzilla) ⭐ 1,477 | 🐛 8 | 🌐 Go | 📅 2017-08-07 Godzilla is a ES2015 to Go source code transpiler and runtime.
-* [GALA](https://github.com/martianoff/gala) ⭐ 65 | 🐛 10 | 🌐 Go | 📅 2026-11-12 A functional programming language that transpiles to Go, adding sealed types, pattern matching, immutability by default, and monads.
+* [GALA](https://github.com/martianoff/gala) ⭐ 65 | 🐛 13 | 🌐 Go | 📅 2026-11-13 A functional programming language that transpiles to Go, adding sealed types, pattern matching, immutability by default, and monads.
 
 ### Java
 
@@ -31,7 +31,7 @@
 
 ### Rust
 
-* [C2Rust](https://github.com/immunant/c2rust) ⭐ 4,838 | 🐛 407 | 🌐 Rust | 📅 2026-11-05 Migrate C code to Rust.
+* [C2Rust](https://github.com/immunant/c2rust) ⭐ 4,837 | 🐛 407 | 🌐 Rust | 📅 2026-11-05 Migrate C code to Rust.
 * [Aleph Ollama](https://github.com/aleph-lang/aleph_ollama) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2025-03-27 - AI-powered source code translation tool using local Ollama API.
 
 ### JavaScript
@@ -49,4 +49,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
