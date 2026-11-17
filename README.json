@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-15T20:35:54Z",
+                    "last_commit": "2026-11-16T09:14:11Z",
                     "open_issues": 417,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16327,
+                    "stars": 16329,
                     "topics": [
                       "binding",
                       "ffi",
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10491,
+                "stars": 10492,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -189,7 +189,7 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T23:23:04Z",
+                "last_commit": "2026-11-17T02:06:02Z",
                 "open_issues": 8,
                 "owner": "martianoff",
                 "repo": "gala",
@@ -266,11 +266,11 @@
                 "id": 130285553,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T06:56:54Z",
-                "open_issues": 406,
+                "last_commit": "2026-11-16T21:37:27Z",
+                "open_issues": 405,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4838,
+                "stars": 4842,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T22:29:51Z",
+                "last_commit": "2026-11-17T02:29:15Z",
                 "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T23:29:43.796Z",
+    "last_updated": "2026-11-17T02:35:11.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
