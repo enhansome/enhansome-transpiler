@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-16T09:14:11Z",
-                    "open_issues": 417,
+                    "last_commit": "2026-11-17T17:42:00Z",
+                    "open_issues": 420,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16329,
+                    "stars": 16331,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 123,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1347,
+                "stars": 1348,
                 "topics": [
                   "ast",
                   "dart",
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T02:06:02Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-17T07:40:20Z",
+                "open_issues": 10,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 65,
@@ -270,7 +270,7 @@
                 "open_issues": 405,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4842,
+                "stars": 4843,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T02:29:15Z",
+                "last_commit": "2026-11-18T01:43:52Z",
                 "open_issues": 30,
                 "owner": "google",
                 "repo": "j2cl",
@@ -437,7 +437,7 @@
                 "open_issues": 0,
                 "owner": "Scottcjn",
                 "repo": "rust-ppc-tiger",
-                "stars": 72,
+                "stars": 70,
                 "topics": [
                   "altivec",
                   "code-generation",
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:35:11.590Z",
+    "last_updated": "2026-11-18T01:49:49.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
