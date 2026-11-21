@@ -23,10 +23,10 @@
                     "language": "Rust",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-19T19:28:16Z",
-                    "open_issues": 419,
+                    "open_issues": 418,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16344,
+                    "stars": 16348,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 123,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1348,
+                "stars": 1347,
                 "topics": [
                   "ast",
                   "dart",
@@ -189,8 +189,8 @@
                 "id": 1127142823,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T07:40:20Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-20T20:56:00Z",
+                "open_issues": 40,
                 "owner": "martianoff",
                 "repo": "gala",
                 "stars": 65,
@@ -270,7 +270,7 @@
                 "open_issues": 407,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4844,
+                "stars": 4846,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -375,8 +375,8 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T00:02:27Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-21T00:08:02Z",
+                "open_issues": 29,
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1382,
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:25:27.377Z",
+    "last_updated": "2026-11-21T00:55:43.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
