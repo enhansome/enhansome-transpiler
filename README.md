@@ -4,8 +4,8 @@
 
 ### Multi Language
 
-* [py2many](https://github.com/adsharma/py2many) ⭐ 1,347 | 🐛 123 | 🌐 Python | 📅 2026-11-03 py2many can transpile a subset of python to
-  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,348 | 🐛 418 | 🌐 Rust | 📅 2026-11-19 extension.
+* [py2many](https://github.com/adsharma/py2many) ⭐ 1,347 | 🐛 124 | 🌐 Python | 📅 2026-11-03 py2many can transpile a subset of python to
+  * Rust - standalone as well as [pyO3](https://github.com/PyO3/pyo3) ⭐ 16,350 | 🐛 419 | 🌐 Rust | 📅 2026-11-19 extension.
   * C++
   * Go
   * Julia
@@ -23,7 +23,7 @@
 * [Grumpy](https://github.com/google/grumpy) ⚠️ Archived Grumpy is a Python to Go source code transcompiler and runtime.
 * [c2go](https://github.com/elliotchance/c2go) ⭐ 2,190 | 🐛 182 | 🌐 Go | 📅 2026-08-21 A tool for transpiling C to Go.
 * [Godzilla](https://github.com/jingweno/godzilla) ⭐ 1,475 | 🐛 8 | 🌐 Go | 📅 2017-08-07 Godzilla is a ES2015 to Go source code transpiler and runtime.
-* [GALA](https://github.com/martianoff/gala) ⭐ 65 | 🐛 40 | 🌐 Go | 📅 2026-11-20 A functional programming language that transpiles to Go, adding sealed types, pattern matching, immutability by default, and monads.
+* [GALA](https://github.com/martianoff/gala) ⭐ 67 | 🐛 40 | 🌐 Go | 📅 2026-11-21 A functional programming language that transpiles to Go, adding sealed types, pattern matching, immutability by default, and monads.
 
 ### Java
 
@@ -31,7 +31,7 @@
 
 ### Rust
 
-* [C2Rust](https://github.com/immunant/c2rust) ⭐ 4,846 | 🐛 407 | 🌐 Rust | 📅 2026-11-19 Migrate C code to Rust.
+* [C2Rust](https://github.com/immunant/c2rust) ⭐ 4,848 | 🐛 406 | 🌐 Rust | 📅 2026-11-21 Migrate C code to Rust.
 * [Aleph Ollama](https://github.com/aleph-lang/aleph_ollama) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2025-03-27 - AI-powered source code translation tool using local Ollama API.
 
 ### JavaScript
