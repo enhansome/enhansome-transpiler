@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-22T20:37:02Z",
-                    "open_issues": 420,
+                    "last_commit": "2026-11-23T21:45:31Z",
+                    "open_issues": 409,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16355,
+                    "stars": 16359,
                     "topics": [
                       "binding",
                       "ffi",
@@ -270,7 +270,7 @@
                 "open_issues": 406,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4848,
+                "stars": 4851,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -350,7 +350,7 @@
                 "language": "Elixir",
                 "license": "MIT",
                 "last_commit": "2019-08-20T14:46:14Z",
-                "open_issues": 23,
+                "open_issues": 19,
                 "owner": "elixirscript",
                 "repo": "elixirscript",
                 "stars": 1566,
@@ -375,8 +375,8 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-22T02:10:44Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-23T21:08:59Z",
+                "open_issues": 33,
                 "owner": "google",
                 "repo": "j2cl",
                 "stars": 1383,
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T00:26:14.359Z",
+    "last_updated": "2026-11-24T04:24:13.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
