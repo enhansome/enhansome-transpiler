@@ -22,11 +22,11 @@
                     "id": 91151442,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-24T13:08:35Z",
-                    "open_issues": 409,
+                    "last_commit": "2026-11-25T16:41:08Z",
+                    "open_issues": 410,
                     "owner": "PyO3",
                     "repo": "pyo3",
-                    "stars": 16366,
+                    "stars": 16371,
                     "topics": [
                       "binding",
                       "ffi",
@@ -49,7 +49,7 @@
                 "open_issues": 124,
                 "owner": "py2many",
                 "repo": "py2many",
-                "stars": 1349,
+                "stars": 1351,
                 "topics": [
                   "ast",
                   "dart",
@@ -92,7 +92,7 @@
                 "open_issues": 0,
                 "owner": "aleph-lang",
                 "repo": "aleph_ollama_erlang",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -120,7 +120,7 @@
                 "open_issues": 80,
                 "owner": "google",
                 "repo": "grumpy",
-                "stars": 10489,
+                "stars": 10487,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -166,7 +166,7 @@
                 "open_issues": 8,
                 "owner": "owenthereal",
                 "repo": "godzilla",
-                "stars": 1475,
+                "stars": 1474,
                 "topics": [
                   "compiler",
                   "es2015",
@@ -267,10 +267,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-21T08:01:17Z",
-                "open_issues": 407,
+                "open_issues": 408,
                 "owner": "immunant",
                 "repo": "c2rust",
-                "stars": 4852,
+                "stars": 4855,
                 "topics": [
                   "memory-safety",
                   "migration",
@@ -298,7 +298,7 @@
                 "open_issues": 0,
                 "owner": "aleph-lang",
                 "repo": "aleph_ollama",
-                "stars": 4,
+                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -326,7 +326,7 @@
                 "open_issues": 189,
                 "owner": "gopherjs",
                 "repo": "gopherjs",
-                "stars": 13198,
+                "stars": 13199,
                 "topics": [
                   "compiler",
                   "go",
@@ -353,7 +353,7 @@
                 "open_issues": 19,
                 "owner": "elixirscript",
                 "repo": "elixirscript",
-                "stars": 1566,
+                "stars": 1567,
                 "topics": [
                   "compiler",
                   "elixir",
@@ -375,7 +375,7 @@
                 "id": 94876336,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T16:41:15Z",
+                "last_commit": "2026-11-25T20:01:07Z",
                 "open_issues": 33,
                 "owner": "google",
                 "repo": "j2cl",
@@ -409,7 +409,7 @@
                 "open_issues": 6,
                 "owner": "shift-js",
                 "repo": "shift-js",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:24:58.623Z"
@@ -461,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T03:08:05.036Z",
+    "last_updated": "2026-11-26T02:24:30.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome transpilers.",
@@ -473,7 +473,7 @@
       "open_issues": 6,
       "owner": "transpiler",
       "repo": "awesome-transpiler",
-      "stars": 63,
+      "stars": 64,
       "topics": [
         "awesome-list",
         "transpile",
